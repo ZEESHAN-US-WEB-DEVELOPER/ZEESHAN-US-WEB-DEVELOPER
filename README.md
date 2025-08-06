@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I’m a passionate and committed learner who is ac
 
 ## 🤝 Let’s Connect
 
-- 🔗 [LinkedIn – Muhammad Zeeshan](https://www.linkedin.com/)
-- 🐦 [Twitter – @YourTwitterHandle](https://x.com/)
+- 🔗 [LinkedIn – Muhammad Zeeshan](https://www.linkedin.com/in/david-zeeshan-71a600337/)
+- 🐦 [Twitter – @YourTwitterHandle](https://x.com/Muhamma25219184)
 
 Feel free to explore my repositories. If you're interested in collaborating or simply want to discuss ideas in tech, don’t hesitate to reach out. Let’s build something amazing together! 💡
